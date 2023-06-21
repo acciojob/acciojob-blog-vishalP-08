@@ -10,7 +10,7 @@
             width: 300px;
             text-align: center;
         }
-        .blog-image {
+        img.blog-image {
             height: 200px;
             cursor: pointer;
         }
